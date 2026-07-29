@@ -1,2 +1,2 @@
 # Task 4
-This repo contains all the data necessary to get started on task 4, good luck!
+This repo is for a open job simulation task for Walmart. I am doing this job simulation through Forage.
